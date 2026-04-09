@@ -1,0 +1,14 @@
+# 本機／打包產物
+*.zip
+*.crx
+*.pem
+*.url
+
+# Python
+__pycache__/
+*.py[cod]
+
+# 系統雜檔
+.DS_Store
+Thumbs.db
+desktop.ini
