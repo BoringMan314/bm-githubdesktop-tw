@@ -1,17 +1,9 @@
-# ?蟡?????梱??*.zip
 *.crx
 *.pem
-*.url
-
-# Python
 __pycache__/
 *.py[cod]
-
-# ??蝯?謚?
 .DS_Store
 Thumbs.db
 desktop.ini
-
-*.cul
-
-*.zip
+/*.url
+/*.zip
